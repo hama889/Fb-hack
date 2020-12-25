@@ -36,21 +36,21 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"              Assalamu'@laikum. ^_^")
-    runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
-    runntxt(GL+"                   BODO AMAT CUK")
-    runntxt(GG+"     ..........     MANDI DULU SANA")
-    runntxt(Y+"    ............       DILARANG CO*I")
+    runntxt(GL+"              kurdistan'@Hama Q ibrahim. ^_^")
+    runntxt(WW+"   ..................  Kateky xosh")
+    runntxt(WW+"     ....       Hama Q I brahim")
+    runntxt(GL+"                   hama q ibrahim")
+    runntxt(GG+"     ..........     Ba heway Sud")
+    runntxt(Y+"    ............        CO*I")
     runntxt(GG+"           INGAT COK ")
     time.sleep(1.5)
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
+    print WW+"  |            MOD BY: Hama q ibrahim            |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |        TEAM : kurdistan CYBER ErRoR SyStEm            |"
+    print Y+"  |             INSTAGRAM: rdlar_man             |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
