@@ -36,9 +36,9 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"              Assalamu'@laikum. ^_^")
+    runntxt(GL+"              kurd'@Hama q ibrahim. ^_^")
     runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
+    runntxt(WW+"     ....       MR.sura")
     runntxt(GL+"                   BODO AMAT CUK")
     runntxt(GG+"     ..........     MANDI DULU SANA")
     runntxt(Y+"    ............       DILARANG CO*I")
@@ -47,10 +47,10 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |            MOD BY: Hama Q ibrahim             |"
+    print GL+"  |       Bashter Tool bi clone krdni fb       |"
+    print WW+"  |        TEAM : kurdistan CYBER ErRoR SyStEm            |"
+    print Y+"  |             INSTAGRAM: redlar_man             |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
